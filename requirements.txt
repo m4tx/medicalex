@@ -1,0 +1,10 @@
+matplotlib
+numpy
+Pillow
+torch
+torchvision
+tensorboard
+tqdm
+torchinfo
+git+https://github.com/inferno-pytorch/inferno.git@master
+ml_collections
